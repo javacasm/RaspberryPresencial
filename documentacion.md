@@ -1,0 +1,1 @@
+[Revista The MagPy](www.themagpi.com)
