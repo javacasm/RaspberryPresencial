@@ -6,6 +6,8 @@ Como sabes es una máquina Linux, con lo que podrás manejarla igual que se mane
 
 ## Consola (línea de comandos)
 
+kindle(RP para agentes secretos)(The importance of a sneaky ...)
+
 ### Usuarios
 
 ### Cuidado con sudo
