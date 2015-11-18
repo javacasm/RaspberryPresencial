@@ -4,9 +4,15 @@
 ## Cómo home-cinema
 [How to make a MediaCenter](https://learn.adafruit.com/raspberry-pi-as-a-media-center)
 
-## Generador de onda
+## Laboratorio
+
+* Generador de onda
 [DAC](https://learn.adafruit.com/mcp4725-12-bit-dac-with-raspberry-pi)
 ![dac](https://learn.adafruit.com/system/guides/images/000/000/092/medium310/DAC_Scope.png?1396720955)
+
+* [Analizador de precuencias](https://learn.adafruit.com/freq-show-raspberry-pi-rtl-sdr-scanner)
+
+![analizador](https://learn.adafruit.com/system/guides/images/000/000/759/medium310/DSC00699.jpg?1412198364)
 
 ## Servidor NAS
 
@@ -57,3 +63,13 @@
 * [Tortura a tu gato](https://learn.adafruit.com/raspberry-pi-wifi-controlled-cat-laser-toy)
 
 ![tortura](https://learn.adafruit.com/system/guides/images/000/000/368/medium310/carmen.jpg?1396718352)
+
+# Arte
+
+*[Ligth Painting](https://learn.adafruit.com/light-painting-with-raspberry-pi)
+
+![ligth painting](https://learn.adafruit.com/system/guides/images/000/000/086/medium310/fire.jpg?1396721000)
+
+* [Iluminación](https://learn.adafruit.com/neopixels-on-raspberry-pi)
+
+![ilumnicación](https://learn.adafruit.com/system/guides/images/000/000/730/medium310/DSC00518_scaled.jpg?1410477592)
