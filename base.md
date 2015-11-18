@@ -36,5 +36,6 @@ Organizado por Darwin Eventur
 1. Montajes
 	1. [electrónica]
 	1. [arduino](./arduino.md)
+	1. [complementos](./complementos.md)
 
 1. [Documentacion](./documentacion.md)
