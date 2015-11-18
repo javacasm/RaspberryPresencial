@@ -8,48 +8,30 @@ Organizado por Darwin Eventur
 
 ![cc](./imagenes/Licencia\ CC.png)
 
-# Introducción
+1. Introducción
+	1. [indice](./indice.md)
+	1. [Historia](./historia.md)
+	1. [Proyectos donde la usan](./proyectos.md)
+	1. [Raspberry Pi en los medios](./raspiMedios.md)
+	1. [Iniciativas similares](./iniciativasSimilares.md)
 
-## [indice](./indice.md)
+1. Uso
+	1. [Instalación](./instalacion.md)
+	1. [Problemas](./problemas.md)
+	1. [Mantenimiento](./mantenimiento.md)
+	1. [Manejándola](./manejando.md)
+	1. [Control con voz](./controlVoz.md)
+	1. [Usos](./usos.md)
+	1. [Simuladores](./simuladores.md)
+	1. [Vigilancia](./vigilancia.md)
+	1. [Hacking](./hacking.md)
+	1. [Uso en exteriores](./Exteriores.md)
 
-## [Historia](./historia.md)
+1. Programación
+	1. [Programando](./programando.md)
 
-## [Proyectos donde la usan](./proyectos.md)
+1. Montajes
+	1. [electrónica]
+	1. [arduino](./arduino.md)
 
-## [Raspberry Pi en los medios](./raspiMedios.md)
-
-## [Iniciativas similares](./iniciativasSimilares.md)
-
-# Uso
-
-## [Instalación](./instalacion.md)
-
-## [Problemas](./problemas.md)
-
-## [Mantenimiento](./mantenimiento.md)
-
-## [Manejándola](./manejando.md)
-
-## [Control con voz](./controlVoz.md)
-
-## [Usos](./usos.md)
-
-## [Simuladores](./simuladores.md)
-
-### [Vigilancia](./vigilancia.md)
-
-### [Hacking](./hacking.md)
-
-### [Uso en exteriores](./Exteriores.md)
-
-# Programación
-
-## [Programando](./programando.md)
-
-# Montajes
-
-## [electrónica]
-
-## [arduino](./arduino.md)
-
-## [Documentacion](./documentacion.md)
+1. [Documentacion](./documentacion.md)
