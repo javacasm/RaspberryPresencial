@@ -16,6 +16,7 @@ Organizado por Darwin Eventur
 	1. [Proyectos donde la usan](./proyectos.md)
 	1. [Raspberry Pi en los medios](./raspiMedios.md)
 	1. [Iniciativas similares](./iniciativasSimilares.md)
+	1. [Opensource y licencias](./OpenSource.md)
 
 1. Uso
 	1. [Instalación](./instalacion.md)
