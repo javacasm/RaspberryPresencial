@@ -52,3 +52,8 @@
 * [Minecraft](https://learn.adafruit.com/running-minecraft-on-a-raspberry-pi)
 
 ![minecraft](https://learn.adafruit.com/system/guides/images/000/000/389/medium310/minecraft2.jpg?1396718054)
+
+# Instrumentos de tortura
+* [Tortura a tu gato](https://learn.adafruit.com/raspberry-pi-wifi-controlled-cat-laser-toy)
+
+![tortura](https://learn.adafruit.com/system/guides/images/000/000/368/medium310/carmen.jpg?1396718352)
