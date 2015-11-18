@@ -8,6 +8,8 @@ Organizado por Darwin Eventur
 
 ![cc](./imagenes/Licencia\ CC.png)
 
+* * *
+
 1. Introducción
 	1. [indice](./indice.md)
 	1. [Historia](./historia.md)
