@@ -16,3 +16,7 @@ Organizado por Darwin Eventur
 
 ## Adaptadores
 
+## Potencia
+
+
+
