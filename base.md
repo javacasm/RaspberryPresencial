@@ -12,6 +12,7 @@ Organizado por Darwin Eventur
 
 1. Introducción
 	1. [Índice](./base.md)
+	1. [¿Qué sabes de Raspberry Pi?](./encuenta.md)
 	1. [Historia](./historia.md)
 	1. [Proyectos donde la usan](./proyectos.md)
 	1. [Raspberry Pi en los medios](./raspiMedios.md)
