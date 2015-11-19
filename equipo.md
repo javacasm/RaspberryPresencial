@@ -1,5 +1,7 @@
 # Equipo
 
+![montajeCompleto](./image/MontajeCompleto.jpg)
+
 ## Obligatorios
 
 * Fuente de alimentación con conector micro-USB con al menos 1 
