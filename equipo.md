@@ -1,6 +1,6 @@
 # Equipo
 
-![montajeCompleto](./image/MontajeCompleto.jpg)
+![montajeCompleto](./imagenes/MontajeCompleto.jpg)
 
 ## Obligatorios
 
