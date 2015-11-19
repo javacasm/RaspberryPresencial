@@ -6,6 +6,11 @@
 
 ![aula](./imagenes/AulaPi.jpg)
 
+## [Laboratorio](https://learn.adafruit.com/mcp4725-12-bit-dac-with-raspberry-pi)
+![dac](https://learn.adafruit.com/system/guides/images/000/000/092/medium310/DAC_Scope.png?1396720955)
+
+## [MediaCenter](https://learn.adafruit.com/raspberry-pi-as-a-media-center)
+
 ## [Robots](https://learn.sparkfun.com/tutorials/getting-started-with-the-brickpi?_ga=1.260570443.733603098.1443800444)
 
 ![lego](https://cdn.sparkfun.com/r/600-600/assets/8/3/6/4/0/Brick_Pi_Hookup_Guide-12.jpg)
