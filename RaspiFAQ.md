@@ -40,41 +40,43 @@ Organizado por Darwin Eventur
 
 	El usuario root no tiene contraseña para evitar acceso indeseados. Para ejecutar algún comando como root podemos usar el comando “sudo”
 
-	sudo comando
+		sudo comando
 
 	nos solicitará la contraseña del usuario actual
 
 	Si necesitamos por alguna razón permanecer como root (lo cual se desaconseja en todos los Linux) podemos usar 
 
-	sudo su -i
+		sudo su -i
 
 	ó 
 
-	sudo su -
+		sudo su -
 
 	Cuando acabemos podemos salir con Ctrl-D o con “exit”
 
-* ¿Cómo debo apagar mi raspberry?
 
-La mejor forma de apagarlas es usando el comando  halt
-
-sudo halt 
-ó
-sudo shutdown -h
 
 # General
 
-	## Mirando
-
 * ¿qué significan las luces?
 
-	PWR 	5V alimentación ok
-	OK 	Acceso a la SD 
-	FDX 	Ethernet Full Duplex conectada
-	LNK 	Ethernet conectado
-	10M	Ethernet de 100 Mbps conectada
+		PWR 	5V alimentación ok
+		OK 	Acceso a la SD 
+		FDX 	Ethernet Full Duplex conectada
+		LNK 	Ethernet conectado
+		10M	Ethernet de 100 Mbps conectada
 
-	## Con el teclado
+* ¿Cómo debo apagar mi raspberry?
+
+	La mejor forma de apagarlas es usando el comando  halt
+
+		sudo halt 
+	ó
+		sudo shutdown -h
+
+* ¿Se rompe si le quito la alimentación?
+
+	No debería pero pudiera ocurrir si se están escribiendo muchos archivos (es un tema de probabilidad)
 
 * ¿Qué versión tengo?
 
