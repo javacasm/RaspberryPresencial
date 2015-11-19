@@ -8,54 +8,6 @@ Organizado por Darwin Eventur
 
 ![cc](./imagenes/Licencia\ CC.png)
 
-# Cacharreo (cables)
-
-* ¿Puedo encender y apagar un led?
-	
-	Sí, pero con cuidado
-
-* ¿Puede controlar un motor?
-
-	No directamente, sí con una plaquita
-
-* ¿Qué necesito para hacer un robot?
-
-	Una placa controladora, y motores ...
-
-# Compras
-
-* ¿Dónde puedo comprar en Granada?
-
-# Administrando (¡es linux!)
-
-* ¿Cuál es el usuario por defecto?
-
-	Es “pi”
-
-* ¿Cuál es la contraseña por defecto del usuario pi?
-
-	Es “raspberry”
-
-* ¿Cuál es la contraseña del usuario root?
-
-	El usuario root no tiene contraseña para evitar acceso indeseados. Para ejecutar algún comando como root podemos usar el comando “sudo”
-
-		sudo comando
-
-	nos solicitará la contraseña del usuario actual
-
-	Si necesitamos por alguna razón permanecer como root (lo cual se desaconseja en todos los Linux) podemos usar 
-
-		sudo su -i
-
-	ó 
-
-		sudo su -
-
-	Cuando acabemos podemos salir con Ctrl-D o con “exit”
-
-
-
 # General
 
 * ¿qué significan las luces?
@@ -107,6 +59,54 @@ Organizado por Darwin Eventur
 		Model B Revision 1.0				0002
 		Model B Revision 1.0 + ECN0001 (no fuses, D14 removed)	0003
 		Model B Revision 2.0			0004, 0005, 0006
+
+# Cacharreo (cables)
+
+* ¿Puedo encender y apagar un led?
+	
+	Sí, pero con cuidado
+
+* ¿Puede controlar un motor?
+
+	No directamente, sí con una plaquita
+
+* ¿Qué necesito para hacer un robot?
+
+	Una placa controladora, y motores ...
+
+# Compras
+
+* ¿Dónde puedo comprar en Granada?
+
+# Administrando (¡es linux!)
+
+* ¿Cuál es el usuario por defecto?
+
+	Es “pi”
+
+* ¿Cuál es la contraseña por defecto del usuario pi?
+
+	Es “raspberry”
+
+* ¿Cuál es la contraseña del usuario root?
+
+	El usuario root no tiene contraseña para evitar acceso indeseados. Para ejecutar algún comando como root podemos usar el comando “sudo”
+
+		sudo comando
+
+	nos solicitará la contraseña del usuario actual
+
+	Si necesitamos por alguna razón permanecer como root (lo cual se desaconseja en todos los Linux) podemos usar 
+
+		sudo su -i
+
+	ó 
+
+		sudo su -
+
+	Cuando acabemos podemos salir con Ctrl-D o con “exit”
+
+
 
 
 
