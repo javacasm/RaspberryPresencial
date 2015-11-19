@@ -23,4 +23,6 @@ Y si la vas a usar como un ordenador
 ![carcasaLego](./imagenes/carcasaLego.jpg)
 
 
+
+[¿Más carcasas?](https://www.google.es/search?q=raspberry+case&safe=off&espv=2&biw=838&bih=896&tbm=isch&tbo=u&source=univ&sa=X&ved=0CD4QsARqFQoTCP2a_r-_nMkCFci0GgodzpUMHA)
 [¿Dónde comprar?](./dondeyquecompar.md)
