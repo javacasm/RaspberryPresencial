@@ -8,3 +8,6 @@ kindle(RP para agentes secretos )
 
 
 # La llegada de los clones
+
+Utiliza un diseño avanzado
+![avanzado](./imagenes/EncapsuladoCPU-RAM.jpg)
