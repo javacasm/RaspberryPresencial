@@ -20,11 +20,11 @@ Utiliza un diseño avanzado
 
 Versión A
 Versión B
-![modeloB](./imagenes/ModelobB.jpg)
+
+![modeloB](./imagenes/ModeloB.jpg)
+
 Versión 2
 Versión 2+
 
 
-# La llegada de los clones
-
-BananaPi
+[La llegada de los clones](./clones.md)
