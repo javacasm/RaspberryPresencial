@@ -1,3 +1,13 @@
+# Curso presencial de Raspberry
+
+José Antonio Vacas @javacasm
+
+Organizado por Darwin Eventur
+
+19 y 20 de Noviembre de 2015
+
+![cc](./imagenes/Licencia\ CC.png)
+
 # Cacharreo (cables)
 
 * ¿Puedo encender y apagar un led?
@@ -48,6 +58,8 @@ sudo shutdown -h
 
 # General
 
+	## Mirando
+
 * ¿qué significan las luces?
 
 	PWR 	5V alimentación ok
@@ -56,9 +68,11 @@ sudo shutdown -h
 	LNK 	Ethernet conectado
 	10M	Ethernet de 100 Mbps conectada
 
+	## Con el teclado
+
 * ¿Qué versión tengo?
 
-	## Desde código
+	
 
 	Podemos saber la versión de Raspberry que tenemos usando el siguiente comando
 
@@ -87,7 +101,7 @@ sudo shutdown -h
 	Model B Revision 1.0 + ECN0001 (no fuses, D14 removed)	0003
 	Model B Revision 2.0			0004, 0005, 0006
 
-	## Mirando
+
 
 
 
