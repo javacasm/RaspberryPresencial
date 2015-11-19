@@ -19,11 +19,13 @@ Utiliza un diseño avanzado
 # Versiones
 
 Versión A
+
 Versión B
 
 ![modeloB](./imagenes/ModeloB.jpg)
 
 Versión 2
+
 Versión 2+
 
 

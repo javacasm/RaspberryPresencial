@@ -31,8 +31,6 @@ Organizado por Darwin Eventur
 	1. [Manejándola](./manejando.md)
 	1. [Usos](./usos.md)
 	1. [Simuladores](./simuladores.md)
-	1. [Vigilancia](./vigilancia.md)
-	1. [Hacking](./hacking.md)
 	1. [Uso en exteriores](./Exteriores.md)
 
 1. Programación

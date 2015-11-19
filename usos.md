@@ -24,9 +24,9 @@
 
 ## Cerebro de una instalación domótica
 
-## Hacking
+## [Hacking](./hacking.md)
 
-## Vigilancia
+## [Vigilancia](./vigilancia.md)
 
 ## Enseñanza
 
