@@ -20,7 +20,7 @@ Y si la vas a usar como un ordenador
 * Wifi
 * Hub USB con alimentación, así podremos añadir más dispositivos y evitaremos cargar la potencia de la Raspberry
 
-![carcasaLego](./carcasaLego.jpg)
+![carcasaLego](./imagenes/carcasaLego.jpg)
 
 
 [¿Dónde comprar?](./dondeyquecompar.md)
