@@ -10,7 +10,15 @@ Organizado por Darwin Eventur
 
 # General
 
-* ¿qué significan las luces?
+* ¿Cómo la alimento?
+	
+	Por USB Micro (como los móviles) con 5v y al menos 1A (mejor 2A)
+
+* ¿Puede funcionar con pilas?
+
+	Depende de las pilas, con una batería externa (como las de los móviles) Sí
+
+* ¿Qué significan las luces?
 
 		PWR 	5V alimentación ok
 		OK 	Acceso a la SD 
