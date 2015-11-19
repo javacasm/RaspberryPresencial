@@ -2,6 +2,8 @@
 
 [simuladores](https://www.google.es/search?q=raspberry+simulator&oq=raspberry+simulator&aqs=chrome..69i57j69i65l3j69i60l2.3806j0j7&sourceid=chrome&es_sm=93&ie=UTF-8)
 
+## En windows
+
 ![qemu](./imagenes/qemu.png)
 
 * Descargamos la imagen en  [http://sourceforge.net/projects/rpiqemuwindows/](http://sourceforge.net/projects/rpiqemuwindows/) 
@@ -15,4 +17,11 @@
 
 [Vídeo](http://www.youtube.com/watch?feature=player_embedded&v=QvqaNUx7-pU)
 
+# [En ubuntu](http://www.cnx-software.com/2011/10/18/raspberry-pi-emulator-in-ubuntu-with-qemu/)
+
+
+# [Simulando en virtualBox](https://www.raspberrypi.org/forums/viewtopic.php?f=9&t=2961)
+
+
 Sobre la velocidad....
+
