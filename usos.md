@@ -39,8 +39,15 @@
 
 ## Data crunching
 
-* BitCoin
+* [Cluster de supercomputación](http://www.cyberhades.com/2014/02/19/tutorial-para-instalar-un-cluster-de-40-nodos-con-raspberry-pi/)
+
+![cluster](./imagenes/PiCluster1.JPG)
+
+* [Minería de BitCoin](https://learn.adafruit.com/piminer-raspberry-pi-bitcoin-miner)
+
+
 ![bitcoin](https://learn.adafruit.com/system/guides/images/000/000/310/medium310/bcminer1_1200.jpg?1396718919)
+
 ## Cámara
 
 [SnapPiCam](https://learn.adafruit.com/snappicam-raspberry-pi-camera)
