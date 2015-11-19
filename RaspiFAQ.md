@@ -1,5 +1,9 @@
 # General
 
+* ¿Es openSource?
+	
+	Casi sí, pero lo será
+
 * ¿De verdad cuesta 35$?
 
 	La placa sí, pero por si misma no es más que un pisapapeles Geek
