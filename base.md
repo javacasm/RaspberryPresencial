@@ -32,10 +32,13 @@ Organizado por Darwin Eventur
 
 1. Programación
 	1. [Programando](./programando.md)
-
+	1. [Para empezar: Scratch](./scratch.md)
+	1. [En serio: python](./python)
 1. Montajes
-	1. [electrónica]
-	1. [arduino](./arduino.md)
-	1. [complementos](./complementos.md)
+	1. [Electrónica](./introElectronica.pdf)
+	1. [Con arduino](./arduino.md)
+	1. [Complementos](./complementos.md)
 
 1. [Documentacion](./documentacion.md)
+
+1. [RaspiFAQ](./RaspiFAQ.md)
