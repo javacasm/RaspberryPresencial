@@ -1,8 +1,16 @@
+# Cacharreo (cables)
+
+* ¿Puedo encender y apagar un led?
+
 * ¿Puede controlar un motor?
 
 * ¿Qué necesito para hacer un robot?
 
+# Compras
+
 * ¿Dónde puedo comprar en Granada?
+
+# Administrando (¡es linux!)
 
 * ¿Cuál es el usuario por defecto?
 
@@ -38,6 +46,8 @@ sudo halt
 ó
 sudo shutdown -h
 
+# General
+
 * ¿qué significan las luces?
 
 	PWR 	5V alimentación ok
@@ -47,6 +57,8 @@ sudo shutdown -h
 	10M	Ethernet de 100 Mbps conectada
 
 * ¿Qué versión tengo?
+
+	## Desde código
 
 	Podemos saber la versión de Raspberry que tenemos usando el siguiente comando
 
@@ -75,6 +87,7 @@ sudo shutdown -h
 	Model B Revision 1.0 + ECN0001 (no fuses, D14 removed)	0003
 	Model B Revision 2.0			0004, 0005, 0006
 
+	## Mirando
 
 
 
