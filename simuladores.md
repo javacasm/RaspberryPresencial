@@ -11,3 +11,8 @@
 * Ejecutamos
 
 	qemu-system-arm.exe -M versatilepb -cpu arm1176 -hda imagen/2013-09-25-wheezy-raspbian.img -kernel kernel-qemu -m 192 -append "root=/dev/sda2″.
+
+
+[Vídeo](http://www.youtube.com/watch?feature=player_embedded&v=QvqaNUx7-pU)
+
+Sobre la velocidad....
