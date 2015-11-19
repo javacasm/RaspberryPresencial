@@ -11,7 +11,7 @@ Organizado por Darwin Eventur
 * * *
 
 1. Introducción
-	1. [Índice](./indice.md)
+	1. [Índice](./base.md)
 	1. [Historia](./historia.md)
 	1. [Proyectos donde la usan](./proyectos.md)
 	1. [Raspberry Pi en los medios](./raspiMedios.md)
@@ -34,6 +34,7 @@ Organizado por Darwin Eventur
 	1. [Programando](./programando.md)
 	1. [Para empezar: Scratch](./scratch.md)
 	1. [En serio: python](./python)
+	1. [Mathematica](./mathematicaPi.md)
 1. Montajes
 	1. [Electrónica](./introElectronica.pdf)
 	1. [Con arduino](./arduino.md)
