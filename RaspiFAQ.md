@@ -11,10 +11,16 @@ Organizado por Darwin Eventur
 # Cacharreo (cables)
 
 * ¿Puedo encender y apagar un led?
+	
+	Sí, pero con cuidado
 
 * ¿Puede controlar un motor?
 
+	No directamente, sí con una plaquita
+
 * ¿Qué necesito para hacer un robot?
+
+	Una placa controladora, y motores ...
 
 # Compras
 
@@ -72,34 +78,32 @@ sudo shutdown -h
 
 * ¿Qué versión tengo?
 
-	
-
 	Podemos saber la versión de Raspberry que tenemos usando el siguiente comando
 
-	cat /proc/cpuinfo
+		cat /proc/cpuinfo
 
 	Obtendremos una información similar a esta
 
-	Processor       : ARMv6-compatible processor rev 7 (v6l)
-	BogoMIPS        : 847.05
-	Features        : swp half thumb fastmult vfp edsp java tls
-	CPU implementer : 0x41
-	CPU architecture: 7
-	CPU variant     : 0x0
-	CPU part        : 0xb76
-	CPU revision    : 7
-	Hardware        : BCM2708
-	Revision        : 0002
-	Serial          : 000000000abc0ab1
+		Processor       : ARMv6-compatible processor rev 7 (v6l)
+		BogoMIPS        : 847.05
+		Features        : swp half thumb fastmult vfp edsp java tls
+		CPU implementer : 0x41
+		CPU architecture: 7
+		CPU variant     : 0x0
+		CPU part        : 0xb76
+		CPU revision    : 7
+		Hardware        : BCM2708
+		Revision        : 0002
+		Serial          : 000000000abc0ab1
 
 	Según el valor que aparezca en el campo Revision tendremos una versión u otra
 
 	Existen 3 versiones:
 
-	Modelo y Revision		Hardware Revision Code de cpuinfo
-	Model B Revision 1.0				0002
-	Model B Revision 1.0 + ECN0001 (no fuses, D14 removed)	0003
-	Model B Revision 2.0			0004, 0005, 0006
+		Modelo y Revision		Hardware Revision Code de cpuinfo
+		Model B Revision 1.0				0002
+		Model B Revision 1.0 + ECN0001 (no fuses, D14 removed)	0003
+		Model B Revision 2.0			0004, 0005, 0006
 
 
 
