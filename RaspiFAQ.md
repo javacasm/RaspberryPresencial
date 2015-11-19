@@ -72,6 +72,7 @@ Organizado por Darwin Eventur
 
 		sudo halt 
 	ó
+		
 		sudo shutdown -h
 
 * ¿Se rompe si le quito la alimentación?
