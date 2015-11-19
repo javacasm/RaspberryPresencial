@@ -10,6 +10,8 @@ Organizado por Darwin Eventur
 
 (Algunas imágenes gracias al Pr. Pedro García Fernandez)
 
+Disponible en [https://github.com/javacasm/RaspberryPresencial/](https://github.com/javacasm/RaspberryPresencial/)
+
 * * *
 
 1. Introducción
