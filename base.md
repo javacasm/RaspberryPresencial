@@ -19,6 +19,7 @@ Organizado por Darwin Eventur
 	1. [Opensource y licencias](./OpenSource.md)
 
 1. Usando nuestra Raspberry 
+	1. [¿Qué necesitamos?](./equipo.md)
 	1. [Instalación](./instalacion.md)
 	1. [Problemas](./problemas.md)
 	1. [Mantenimiento](./mantenimiento.md)
