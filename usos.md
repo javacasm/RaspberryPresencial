@@ -32,6 +32,10 @@
 
 [Distribución educativa](https://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro)
 
+[Aulas informatica](https://www.raspberrypi.org/blog/bringing-computing-to-rural-cameroon/)
+
+![aula](./imagenes/AulaPi.jpg)
+
 * Robótica
 [Raspberry y Lego Minstorm](https://learn.sparkfun.com/tutorials/getting-started-with-the-brickpi?_ga=1.260570443.733603098.1443800444)
 
