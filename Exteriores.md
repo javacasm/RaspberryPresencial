@@ -10,6 +10,12 @@ Su bajo peso, y los pocos periféricos de los que depende, facilitan su uso en e
 
 * ¿Espacio?
 
+	[astroPi](https://astro-pi.org/)
+	
+	![espacio](http://cdn.arstechnica.net/wp-content/uploads/2012/12/balloon-electronics.jpg)
+
+	![espa](http://cdn.arstechnica.net/wp-content/uploads/2012/12/balloon-shot.jpeg)
+
 * ¿Volando? [Autopilot](http://erlerobotics.com/blog/meet-the-last-autopilot-for-building-robots-erle-brain-2/)
 
 ![autopilot](https://pbs.twimg.com/media/CUAG0x8WoAAeHjp.jpg)
