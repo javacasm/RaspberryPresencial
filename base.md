@@ -8,7 +8,7 @@ Organizado por Darwin Eventur
 
 ![cc](./imagenes/Licencia\ CC.png)
 
-(Algunos materiales gracias al Pr. Pedro García Fernandez)
+(Algunas imágenes gracias al Pr. Pedro García Fernandez)
 
 * * *
 
