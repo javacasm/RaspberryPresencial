@@ -10,6 +10,10 @@ Organizado por Darwin Eventur
 
 # General
 
+* ¿De verdad cuesta 35$?
+
+	La placa sí, pero por si misma no es más que un pisapapeles Geek
+
 * ¿Cómo la alimento?
 	
 	Por USB Micro (como los móviles) con 5v y al menos 1A (mejor 2A)
