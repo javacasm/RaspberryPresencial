@@ -1,8 +1,5 @@
 # Exteriores
 
-
-
-
 Su bajo peso, y los pocos periféricos de los que depende, facilitan su uso en entornos aislados
 
 * Aislamiento
@@ -13,7 +10,9 @@ Su bajo peso, y los pocos periféricos de los que depende, facilitan su uso en e
 
 * ¿Espacio?
 
-* ¿Volando? placa de los vascos
+* ¿Volando? [Autopilot](http://erlerobotics.com/blog/meet-the-last-autopilot-for-building-robots-erle-brain-2/)
+
+![autopilot](https://pbs.twimg.com/media/CUAG0x8WoAAeHjp.jpg)
 
 # Portable
 
