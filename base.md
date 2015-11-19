@@ -39,9 +39,14 @@ Disponible en [https://github.com/javacasm/RaspberryPresencial/](https://github.
 	1. [Programando](./programando.md)
 	1. [Para empezar: Scratch](./scratch.md)
 	1. [En serio: python](./python)
+		1. [Python en consola](./pythonConsola.md)
+		1. [Python en aplicaciones](./aplicaciones.md)
+		1. [APIs con Python](./apis.md)
 	1. [Mathematica](./mathematicaPi.md)
+
 1. Montajes
-	1. [Electrónica](./introElectronica.pdf)
+	1. [Electrónica](./electronica.md) ([Introducción a la electrónica](./introElectronica.pdf)  )
+	1. [Encendiendo leds](./leds.md)
 	1. [Con arduino](./arduino.md)
 	1. [Complementos](./complementos.md)
 
