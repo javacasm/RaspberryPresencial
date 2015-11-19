@@ -13,3 +13,5 @@
 * Una caja (para evitar problemas)
 * Wifi
 * Hub USB con alimentación, así podremos añadir más dispositivos y evitaremos cargar la potencia de la Raspberry
+
+[¿Dónde comprar?](./dondeyquecompar.md)
