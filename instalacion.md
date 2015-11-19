@@ -23,3 +23,9 @@
 ![avanzado](./imagenes/avanzados.png)
 
 ![overclock](./imagenes/overcock.png)
+
+
+En cualquier momento podemos volver a reconfigurar
+
+
+	sudo raspi-config
