@@ -10,7 +10,7 @@ Has sido muchas las películas donde últimamente aparece
 
 
 ## ¿Cómo lo usan?
-	TODO: esquema
+
 	
 * Mr. Robot: Datalogger
 
