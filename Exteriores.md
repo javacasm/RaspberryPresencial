@@ -1,19 +1,19 @@
 # Exteriores
 
 
-kindle(RP para agentes secretos)(Rasp Off-road...)
+
 
 Su bajo peso, y los pocos periféricos de los que depende, facilitan su uso en entornos aislados
 
-Aislamiento
+* Aislamiento
 
-Temperatura
+* Temperatura
 
-Baterias
+* Baterias
 
-¿Espacio?
+* ¿Espacio?
 
-¿Volando? placa de los vascos
+* ¿Volando? placa de los vascos
 
 # Portable
 
@@ -25,3 +25,6 @@ Baterias
 # [MiniPortatil](https://learn.adafruit.com/mini-raspberry-pi-handheld-notebook-palmtop)
 
 ![miniportatil](https://learn.adafruit.com/system/guides/images/000/001/046/medium310/hero-pitop-sm.jpg?1433426031)
+
+
+Más detalles en el libro "RP para agentes secretos"

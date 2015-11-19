@@ -1,6 +1,9 @@
 [Revista The MagPy](www.themagpi.com)
 
-Libro  Simon Monk
+Libros:  
+* Raspberry Pi, Simon Monk
+* Raspberry Pi for Secrect Agents
+* Raspberry Pi Gamming
 
 [vídeo tutorial Raspberry Pi (sparkfun)](https://www.youtube.com/watch?v=b6h95jNWg1g)
 
@@ -9,3 +12,4 @@ Libro  Simon Monk
 [Tutoriales de Adafruit](https://learn.adafruit.com/search?q=raspberry)
 
 [Tutoriales de sparkfun](https://www.sparkfun.com/search/results?term=raspberry)
+
