@@ -27,4 +27,6 @@ kindle(RP para agentes secretos)(Keeping yout system up-to-date...)
 
 ## Cuidados eléctricos
 
-No existe protección en los terminales, con lo que es muy, muy sencillo quemar la placa
+* No existe protección en los terminales, con lo que es muy, muy sencillo quemar la placa.
+* Cuidado con colocar la placa sobre un instrumento o superficie metálica. Mejor usar una caja
+* Cuidado con los dispositivos que conectamos, pudieran demandar más potencia de la que le puede dar
