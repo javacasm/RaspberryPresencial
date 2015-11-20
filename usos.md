@@ -17,6 +17,10 @@
 
 ![analizador](https://learn.adafruit.com/system/guides/images/000/000/759/medium310/DSC00699.jpg?1412198364)
 
+## Cerebro de una instalación domótica
+
+[Regulación de temperatura](https://tackk.com/nightcooling)
+
 ## Servidor NAS
 
 ## Cortafuegos/acceso remoto
@@ -24,8 +28,6 @@
 ## Monitorización
 
 ## Sistema aislado recogida de datos
-
-## Cerebro de una instalación domótica
 
 ## Streaming
 
@@ -45,7 +47,14 @@
 
 ![aula](./imagenes/AulaPi.jpg)
 
-* Robótica
+[Servidor de aula (Kahn Academy Offline)](http://www.raspberrypi.org/archives/3829?sf12291563=1)
+
+	Raspebrry 35$
+	SD 64Gb 50$
+	Wifi USB 5$
+	Caja 9$
+
+## Robótica
 [Raspberry y Lego Minstorm](https://learn.sparkfun.com/tutorials/getting-started-with-the-brickpi?_ga=1.260570443.733603098.1443800444)
 
 ![lego](https://cdn.sparkfun.com/r/600-600/assets/8/3/6/4/0/Brick_Pi_Hookup_Guide-12.jpg)
@@ -124,3 +133,11 @@
 * [RaspiPhone](https://learn.adafruit.com/piphone-a-raspberry-pi-based-cellphone?view=all)
 
 ![phone](https://learn.adafruit.com/system/guides/images/000/000/723/medium800/IMG_0873.JPG?1447863583)
+
+## Coche
+
+[Datalogger de datos del coche](http://www.stuffaboutcode.com/2013/07/raspberry-pi-reading-car-obd-ii-data.html)
+
+[Seguidor de flotas](http://www.stuffaboutcode.com/2013/10/raspberry-pi-car-cam-gps-data-map.html)
+
+![coche](./imagenes/coche.jpg)

@@ -32,5 +32,7 @@ Versión B (512M y ethernet)
 
 Versión A (256MB)
 
+[Comparativa Raspberry 2](https://learn.adafruit.com/introducing-the-raspberry-pi-2-model-b?view=all)
+
 
 [La llegada de los clones](./clones.md)
