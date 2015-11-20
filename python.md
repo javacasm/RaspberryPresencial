@@ -10,7 +10,21 @@ Se utiliza idle (o python directamente)
 
 Veamos algunos ejemplos
 
-* Podemos usar diccionarios que nos permitirán relacionar contenidos
+* Operaciones numéricas y petición de datos al usuario
+
+![suma](./imagenes/suma.png)
+
+* Sentencias de control condicionales
+
+![bisiesto](./imagenes/bisiesto.png)
+
+![diasMes](./imagenes/diasMes.png)
+
+* Sentencias de control de repetición
+
+![busca](./imagenes/buscaCaracter.png)
+
+* Diccionarios que nos permitirán relacionar contenidos
 
 ![dict](./imagenes/diccionarios.png)
 
