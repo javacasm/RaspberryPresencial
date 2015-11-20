@@ -42,6 +42,7 @@ Disponible en [https://github.com/javacasm/RaspberryPresencial/](https://github.
 	1. [En serio: python](./python.md)
 		1. [Python en aplicaciones](./aplicaciones.md)
 		1. [APIs con Python](./apis.md)
+		1. [Python y la cámara](./openCV.md)
 	1. [Mathematica](./mathematicaPi.md)
 
 1. Montajes
