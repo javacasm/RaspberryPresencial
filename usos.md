@@ -24,6 +24,12 @@
 
 ## Cerebro de una instalación domótica
 
+## Streaming
+
+* [Radio wifi](https://learn.adafruit.com/pi-wifi-radio?view=all)
+
+![radio](https://learn.adafruit.com/system/assets/assets/000/007/372/medium800/raspberry_pi_piphi1.jpg?1396850566)
+
 ## [Hacking](./hacking.md)
 
 ## [Vigilancia](./vigilancia.md)
@@ -71,9 +77,14 @@
 ![minecraft](https://learn.adafruit.com/system/guides/images/000/000/389/medium310/minecraft2.jpg?1396718054)
 
 # Instrumentos de tortura
-* [Tortura a tu gato](https://learn.adafruit.com/raspberry-pi-wifi-controlled-cat-laser-toy)
+
+* [Tortura a tu gato](https://learn.adafruit.com/raspberry-pi-wifi-controlled-cat-laser-toy?view=all)
 
 ![tortura](https://learn.adafruit.com/system/guides/images/000/000/368/medium310/carmen.jpg?1396718352)
+
+* [Cuadro diabókico](https://learn.adafruit.com/creepy-face-tracking-portrait?view=all)
+
+![cuadro](https://learn.adafruit.com/system/assets/assets/000/011/659/medium800/raspberry_pi_DSC00316.jpg?1381799690)
 
 # Arte
 
@@ -84,3 +95,10 @@
 * [Iluminación](https://learn.adafruit.com/neopixels-on-raspberry-pi)
 
 ![ilumnicación](https://learn.adafruit.com/system/guides/images/000/000/730/medium310/DSC00518_scaled.jpg?1410477592)
+
+
+# Portables
+
+* [Raspberry Pi Gameboy](https://learn.adafruit.com/pigrrl-raspberry-pi-gameboy?view=all)
+
+![gameboy](https://learn.adafruit.com/system/assets/assets/000/017/676/medium800/gaming_pigrrl-adabot.jpg?1404136195)

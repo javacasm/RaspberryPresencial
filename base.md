@@ -38,6 +38,7 @@ Disponible en [https://github.com/javacasm/RaspberryPresencial/](https://github.
 1. Programación
 	1. [Programando](./programando.md)
 	1. [Para empezar: Scratch](./scratch.md)
+	1. [Utilizando scripts](./shell.md)
 	1. [En serio: python](./python)
 		1. [Python en consola](./pythonConsola.md)
 		1. [Python en aplicaciones](./aplicaciones.md)
