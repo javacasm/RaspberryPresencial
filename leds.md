@@ -105,3 +105,33 @@ Para ejecutar estos programas necesitamos permiso de administrador
 Usando el código
 
 ![codigo](./imagenes/codigopulsador.png)
+
+## Usos de los GPIOs
+
+* Encender apagar LEDs (no podemos aspirar a encender nada de mayor potencia directamente). Estas son las salidas digitales, capaces de estar en estado alto o bajo. 
+* Algunos de estos pines pueden generar PWM (modulación por ancho de pulso) protocolo que usan los servos.
+* Detectar pulsaciones de botones/interruptores. Estas son las entradas digitales.
+• Acceso al puerto serie por los terminales TX/TX
+• Acceso al bus I2C, bus de comunicaciones usado por muchos dispositivos
+• Acceso al bus SPI, bus de comunicaciones similar al I2C pero con diferentes especificaciones
+
+El bus I2C y SPI nos permiten conectar con dispositivos externos que nos
+expanden su funcionalidad. Es como si conectáramos periféricos a nuestra
+Raspberry.
+
+![pines](./imagenes/pi2GPIO.jpg)
+
+* También están disponibles las líneas de alimentación de 5v y 3.3v y por supuesto tierra.
+
+* Todos los pines se pueden configurar tanto de entrada como de salida.
+
+* Algunos de los pines tienen una segunda función como por ejemplo los etiquetados como SCL y SDA utilizados para I2C y los MOSI, MISO y SCKL utilizados para conectar con dispositivos SPI.
+* Hay que tener muy claro que todos los pines usan niveles lógicos de 3.3V y no es seguro conectarlos directamente a 5V, porque las entradas han de ser menores de 3.3V. Igualmente no podemos esperar salidas superiores a 3.3V.
+* En caso de querer conectar con lógica de 5v tendremos que usar una electrónica para adaptar niveles.
+* Existen dispositivos convertidores de niveles (level shifters) con diferentes tecnologías. Los más antiguos están formados por unas resistencias y unos transistores.
+
+![shifper](./imagenes/shifter.png)
+
+Para identificar más fácilmente los pines podemos usar una etiqueta
+
+![etiqueta](./imagenes/etiqueta.png)
