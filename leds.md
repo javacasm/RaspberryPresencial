@@ -21,10 +21,13 @@ Hay que tener cuidado con no equivocarse. Podemos usar una etiqueta
 
 ![1](./imagenes/etiquetas.png)
 
+Las distinas versiones tienen algunos pines distintos
 
 ![1](./imagenes/GPIOV2.png)
 
+Las versiones de 40 pines
 
+![40](./imagenes/RP2_Pinout.png)
 
 ## Librerías
 
@@ -35,4 +38,70 @@ Hay 4 librerías GPIO
 * wiringPi (Gordon Henderson wiringpi.com)
 * BCM 2835
 
+Veamos como llaman a los distintos pines
+
 ![1](./imagenes/NombresGPIO.png)
+
+## Wiring
+
+Para instalarlo tenemos que tener instalado parte del entorno de desarrollo de python
+
+	sudo apt-get install python-dev python-setuptools git-core
+
+Descargamos el código (también podíamos haber descargado el fichero zip)
+
+	git clone git://git.drogon.net/wiringPi
+
+La compilamos
+
+	./build
+
+Y ya podemos udarla 
+
+	gpio readall
+
+
+![readall](./imagenes/readall.png)
+
+## Conectando un led
+
+Este es el esquema para conectar un led
+
+![led](./imagenes/led.png)
+
+El montaje sería
+
+![esquema](./imagenes/esquemaled.png)
+
+Hagamos un programa que parpadea el led conectado 
+
+	import time
+	# Importamos la librería wiringpi
+	import wiringpi2
+	#Configuramos la numeración de los pines con respecto al
+	#estandar de la librería wiringpi (pin de entrada salida 
+	#	GPIO0)
+
+	io = wiringpi2.GPIO(wiringpi2.GPIO.WPI_MODE_PINS)
+
+	#Configuramos el pin 0 como salida
+	io.pinMode(0,io.OUTPUT)
+
+	# Ciclo for que ejecutamos 3 veces
+	for x in range (0,3):
+		io.digitalWrite(0,io.HIGH) #encendemos el led
+		time.sleep(0.5) # esperamos medio segundo
+		io.digitalWrite(0,io.LOW) # apagamos el led
+		time.sleep(0.5) # esperamos medio segundo
+
+Para ejecutar estos programas necesitamos permiso de administrador
+
+	sudo python blink.py
+
+# Conectado un pulsador
+
+![pulsador](./imagenes/pulsador.png)
+
+Usando el código
+
+![codigo](./imagenes/codigopulsador.png)
