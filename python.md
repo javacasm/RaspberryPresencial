@@ -5,3 +5,9 @@ Es un lenguage de gran producitividad, sencillo, potente y con millones de líne
 
 
 Se utiliza idle (o python directamente)
+
+Veamos algunos ejemplos
+
+Podemos usar diccionarios que nos permitirán relacionar contenidos
+
+![dict](./imagenes/diccionarios.png)
