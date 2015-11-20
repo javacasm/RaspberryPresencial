@@ -33,3 +33,4 @@ Veamos algunos ejemplos
 * Veamos una implementación de un programa más elaborado como "Piedra, Papel o Tijera"
 
 ![PPT](./imagenes/PPT.png)
+
