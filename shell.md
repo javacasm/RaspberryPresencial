@@ -31,6 +31,7 @@ Si queremos cambiar el retraso con el se captura, usamos la opción -t indicando
 	raspistill -o myimage.jpg -t 3000
 
 Este programa tiene muchas opciones que podemos ver usando:
+
 	raspistill | less
 	-?, --help
 	: This help information
