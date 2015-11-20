@@ -135,3 +135,37 @@ Raspberry.
 Para identificar más fácilmente los pines podemos usar una etiqueta
 
 ![etiqueta](./imagenes/etiqueta.png)
+
+## Placas GPIO
+
+### Clobber
+
+* Es bastante arriesgado y complicado trabajar directamente con los pines del conector GPIO de la RaspBerry.
+* Existen en el mercado una gran variedad de placas que nos facilitan la vida. 
+* Algunas sólo nos facilitan la conexión. 
+* Otras nos proporcionan mayor funcionalidad. 
+* En cualquier caso ganamos en tranquilidad al usarlas.
+
+
+![clobber](./imagenes/clobber.png)
+
+Son simples adaptadores que nos facilitan la vida permitiendo conectar de manera sencilla
+con las placas de prototipo
+
+### PiPlate
+
+![piplate](./imagenes/piplate.png)
+
+Se trata de una placa de prototipo especialmente adaptada al tamaño de la Raspberry y que nos permite acceder de forma sencilla a los pines por nombre y funcionalidad.
+
+### PiFace
+
+![piface](./imagenes/piface.png)
+
+* Tiene un fin claramente educativo, 
+* Incluye diferentes dispositivos 
+* Leds que se pueden activar independientemente, 
+* 2 relés para activar cargas de potencia y 
+* 4 pulsadores conectados a otras tantas entradas
+
+![esquemapiface](./imagenes/esquemapiface.png)
