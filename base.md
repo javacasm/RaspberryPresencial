@@ -48,7 +48,7 @@ Disponible en [https://github.com/javacasm/RaspberryPresencial/](https://github.
 1. Montajes
 	1. [Electrónica](./electronica.md) ([Introducción a la electrónica](./introElectronica.pdf)  )
 	1. [Encendiendo leds](./leds.md)
-	1. [Con arduino](./arduino.md)
+	1. [Con arduino](./ConectandoArduino-.pdf)
 	1. [Complementos](./complementos.md)
 
 1. [Documentacion](./documentacion.md)
