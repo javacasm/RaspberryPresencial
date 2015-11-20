@@ -1,8 +1,11 @@
 # Usos
 
 
-## Cómo home-cinema
-[How to make a MediaCenter](https://learn.adafruit.com/raspberry-pi-as-a-media-center)
+## MediaCenter
+
+[How to make a MediaCenter](https://learn.adafruit.com/raspberry-pi-as-a-media-center?view=all)
+
+![home](https://learn.adafruit.com/system/assets/assets/000/005/897/medium800/raspberry_pi_xbmc_playing_music.jpg?1396829295)
 
 ## Laboratorio
 
@@ -98,6 +101,9 @@
 
 ![ilumnicación](https://learn.adafruit.com/system/guides/images/000/000/730/medium310/DSC00518_scaled.jpg?1410477592)
 
+* [Cortina luminosa](https://learn.adafruit.com/1500-neopixel-led-curtain-with-raspberry-pi-fadecandy?view=all)
+
+![cortina](https://learn.adafruit.com/system/assets/assets/000/018/739/medium800/leds_curtain-anim.gif?1447866960)
 
 # Portables
 
