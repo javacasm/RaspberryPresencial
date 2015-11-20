@@ -73,6 +73,10 @@
 
 ![mame](https://learn.adafruit.com/system/assets/assets/000/008/824/medium800/gaming_joust.jpg?1396874780)
 
+* [Mini máquina recreativa](https://learn.adafruit.com/cupcade-raspberry-pi-micro-mini-arcade-game-cabinet?view=all)
+
+![mini](https://learn.adafruit.com/system/assets/assets/000/015/450/medium800/gaming_cover.jpg?1395167594)
+
 * [Cómo instalar y jugar Doom](https://learn.sparkfun.com/tutorials/setting-up-raspbian-and-doom?_ga=1.227922267.733603098.1443800444)
 
 ![Doom](https://cdn.sparkfun.com/r/600-600/assets/1/e/4/f/a/52a8cbcc757b7f5b198b4567.png)
@@ -110,3 +114,13 @@
 * [Raspberry Pi Gameboy](https://learn.adafruit.com/pigrrl-raspberry-pi-gameboy?view=all)
 
 ![gameboy](https://learn.adafruit.com/system/assets/assets/000/017/676/medium800/gaming_pigrrl-adabot.jpg?1404136195)
+
+* [Super consola](https://learn.adafruit.com/super-game-pi?view=all)
+
+![super](https://learn.adafruit.com/system/assets/assets/000/022/249/medium800/gaming_hero-hands1.jpg?1420582925)
+
+# Teléfono
+
+* [RaspiPhone](https://learn.adafruit.com/piphone-a-raspberry-pi-based-cellphone?view=all)
+
+![phone](https://learn.adafruit.com/system/guides/images/000/000/723/medium800/IMG_0873.JPG?1447863583)

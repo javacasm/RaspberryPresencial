@@ -5,6 +5,8 @@
 
 [otros](http://en.wikipedia.org/wiki/Raspberry_Pi#See_also)
 
+[Comparativa entre clones](https://learn.adafruit.com/embedded-linux-board-comparison?view=all)
+
 
 * BeagleBoard  ARM Cortex-A8 256MB 89€
 
