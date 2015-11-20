@@ -66,7 +66,9 @@
 
 ## Máquina de juegos
 
-* Mame
+* [Mame](https://learn.adafruit.com/retro-gaming-with-raspberry-pi?view=all)
+
+![mame](https://learn.adafruit.com/system/assets/assets/000/008/824/medium800/gaming_joust.jpg?1396874780)
 
 * [Cómo instalar y jugar Doom](https://learn.sparkfun.com/tutorials/setting-up-raspbian-and-doom?_ga=1.227922267.733603098.1443800444)
 
