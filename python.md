@@ -6,7 +6,7 @@ Es un lenguage moderno de gran productividad, sencillo, potente y con millones d
 Se utiliza en la web, en aplicaciones de escritorio, etc... Gran parte del interface de linux lo utiliza
 
 
-Podeos utilizar la herramiente Idle o python directamente para programar con él.
+Podemos utilizar la herramiente Idle o python directamente para programar con él.
 
 ![idle](./imagenes/idle.png)
 
