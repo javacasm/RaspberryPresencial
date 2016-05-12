@@ -199,6 +199,7 @@ Para identificar más fácilmente los pines podemos usar una etiqueta
 
 ![etiqueta](./imagenes/etiqueta.png)
 
+
 ## Placas GPIO
 
 ### Clobber
