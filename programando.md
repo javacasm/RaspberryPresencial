@@ -1,3 +1,14 @@
+# Raspberry Pi: Introducción al uso y programación ([162319GE102](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=161807))
+
+## CEP de Linares-Andújar
+
+11, 12 y 17 de Mayo de 2016
+
+![CC](./imagenes/Licencia_CC.png)
+## José Antonio Vacas  @javacasm
+
+### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
+
 # Aprendiendo a programar
 
 Existen distintas alternativas, dependiendo de los conocimientos previos
@@ -6,7 +17,7 @@ Existen distintas alternativas, dependiendo de los conocimientos previos
 
 ## python: profesional, se necesitan otras habilidades (manejo de editores,...)
 
-## Otros: permiten aprender de una forma sencilla otros lenguajes. 
+## Otros: permiten aprender de una forma sencilla otros lenguajes.
 
 Facilitan la instalación de los entornos, que suele ser lo más complicado
 
