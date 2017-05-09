@@ -12,7 +12,7 @@
 # python
 
 
-Es un lenguage moderno de gran productividad, sencillo, potente y con millones de líneas ya desarrolladas que se pueden usar directamente por medio de paquetes instalables
+Es un lenguaje moderno de gran productividad, sencillo, potente y con millones de líneas ya desarrolladas que se pueden usar directamente por medio de paquetes instalables
 
 Se utiliza en la web, en aplicaciones de escritorio, etc... Gran parte del interface de linux lo utiliza
 
