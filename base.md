@@ -15,16 +15,16 @@ Disponible en [https://github.com/javacasm/RaspberryPresencial/](https://github.
 * * *
 
 1. Introducción
-	1. [Índice](./base.md)
+	1. [Índice](./indice.md)
 	1. [¿Qué sabes de Raspberry Pi?](./encuentaInicial.md)
 	1. [Historia](./historia.md)
 	1. [Proyectos donde la usan](./proyectos.md)
 	1. [Raspberry Pi en los medios](./raspiMedios.md)
 	1. [Iniciativas similares](./iniciativasSimilares.md) [¿Raspberry o arduino?](./raspberryVSarduino.md)
 	1. [Opensource y licencias](./OpenSource.md)
-	
 
-1. Usando nuestra Raspberry 
+
+1. Usando nuestra Raspberry
 	1. [¿Qué necesitamos?](./equipo.md) [¿Dónde comprar?](./dondeyquecompar.md)
 	1. [Arquitectura](./estructura.md)
 	1. [Instalación](./instalacion.md)

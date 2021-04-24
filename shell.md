@@ -4,7 +4,7 @@ Los scripts son ficheros donde colocamos distintas órdenes que se irán realiza
 
 ## Usando la cámara
 
-![camara](./imagenes/camara.png)
+![camara](./imagenes/camara.jpg)
 
 La cámara tiene su propio conector, junto a las conectores GPIO.
 
