@@ -1,3 +1,14 @@
+# Raspberry Pi: Introducción al uso y programación ([162319GE102](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=161807))
+
+## CEP de Linares-Andújar
+
+11, 12 y 17 de Mayo de 2016
+
+![CC](./imagenes/Licencia_CC.png)
+## José Antonio Vacas  @javacasm
+
+### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
+
 # Hacking
 
 
@@ -5,7 +16,7 @@
 
 ## Intercambio de contenidos
 
-## Cómo hackear una raspberry pi 
+## Cómo hackear una raspberry pi
 
 [Hacking RaspPi](https://geekytheory.com/hacking-raspberry-pi/)
 
@@ -16,4 +27,3 @@ Escóndela dentro de una regleta [Turn a Raspberry Pi Into a Super Cheap, Packet
 ## Ejemplos de cine
 
 [Mr Robot](http://null-byte.wonderhowto.com/how-to/hacks-mr-robot-build-hacking-raspberry-pi-0163143/)
-

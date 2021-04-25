@@ -1,3 +1,14 @@
+# Raspberry Pi: Introducción al uso y programación ([162319GE102](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=161807))
+
+## CEP de Linares-Andújar
+
+11, 12 y 17 de Mayo de 2016
+
+![CC](./imagenes/Licencia_CC.png)
+## José Antonio Vacas  @javacasm
+
+### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
+
 # Python y la cámara: openCV
 
 Vamos a ver cómo utilizar librerías de reconocimiento de objetos para detectar formas y colores en imágenes provenientes de la cámara
@@ -5,12 +16,12 @@ Vamos a ver cómo utilizar librerías de reconocimiento de objetos para detectar
 [vídeo](https://www.youtube.com/watch?v=CigGvt3DXIw)
 
 Usaremos la librería OpenCV, librería desarrollada para trabajar en sistemas de
-reconocimiento de imágenes. 
+reconocimiento de imágenes.
 
-Es una de las más utilizadas 
+Es una de las más utilizadas
 Funcionar independientemente de la fuente de las imágenes, (tiempo real o imágenes almacenadas)
 
-Un proyecto sencillo: detectar la posición de unos círculos en la imagen. 
+Un proyecto sencillo: detectar la posición de unos círculos en la imagen.
 
 (Deteccion de una pelota en el suelo. Basta con que sepamos “restar” el fondo a nuestra
 imagen)

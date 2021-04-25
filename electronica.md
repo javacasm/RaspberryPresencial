@@ -1,3 +1,14 @@
+# Raspberry Pi: Introducción al uso y programación ([162319GE102](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=161807))
+
+## CEP de Linares-Andújar
+
+11, 12 y 17 de Mayo de 2016
+
+![CC](./imagenes/Licencia_CC.png)
+## José Antonio Vacas  @javacasm
+
+### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
+
 # Electronica
 
 ## Cuidados
@@ -18,7 +29,7 @@
 
 ## Sensores
 
-[Sensores de temperatura digitales](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing?view=all) 
+[Sensores de temperatura digitales](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing?view=all)
 
 ![ds](https://learn.adafruit.com/system/assets/assets/000/003/775/medium800/learn_raspberry_pi_summary.jpg?1396801585)
 

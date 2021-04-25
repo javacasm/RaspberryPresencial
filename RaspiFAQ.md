@@ -1,7 +1,18 @@
+# Raspberry Pi: Introducción al uso y programación ([162319GE102](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=161807))
+
+## CEP de Linares-Andújar
+
+11, 12 y 17 de Mayo de 2016
+
+![CC](./imagenes/Licencia_CC.png)
+## José Antonio Vacas  @javacasm
+
+### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
+
 # General
 
 * ¿Es openSource?
-	
+
 	Casi sí, pero lo será
 
 * ¿De verdad cuesta 35$?
@@ -9,7 +20,7 @@
 	La placa sí, pero por si misma no es más que un pisapapeles Geek
 
 * ¿Cómo la alimento?
-	
+
 	Por USB Micro (como los móviles) con 5v y al menos 1A (mejor 2A)
 
 * ¿Puede funcionar con pilas?
@@ -19,7 +30,7 @@
 * ¿Qué significan las luces?
 
 		PWR 	5V alimentación ok
-		OK 	Acceso a la SD 
+		OK 	Acceso a la SD
 		FDX 	Ethernet Full Duplex conectada
 		LNK 	Ethernet conectado
 		10M	Ethernet de 100 Mbps conectada
@@ -28,9 +39,9 @@
 
 	La mejor forma de apagarlas es usando el comando  halt
 
-		sudo halt 
+		sudo halt
 	ó
-		
+
 		sudo shutdown -h
 
 * ¿Se rompe si le quito la alimentación?
@@ -69,7 +80,7 @@
 # Cacharreo (cables)
 
 * ¿Puedo encender y apagar un led?
-	
+
 	Sí, pero con cuidado
 
 * ¿Puede controlar un motor?
@@ -102,19 +113,12 @@
 
 	nos solicitará la contraseña del usuario actual
 
-	Si necesitamos por alguna razón permanecer como root (lo cual se desaconseja en todos los Linux) podemos usar 
+	Si necesitamos por alguna razón permanecer como root (lo cual se desaconseja en todos los Linux) podemos usar
 
 		sudo su -i
 
-	ó 
+	ó
 
 		sudo su -
 
 	Cuando acabemos podemos salir con Ctrl-D o con “exit”
-
-
-
-
-
-
-

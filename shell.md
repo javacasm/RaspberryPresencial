@@ -1,3 +1,14 @@
+# Raspberry Pi: Introducción al uso y programación ([162319GE102](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=161807))
+
+## CEP de Linares-Andújar
+
+11, 12 y 17 de Mayo de 2016
+
+![CC](./imagenes/Licencia_CC.png)
+## José Antonio Vacas  @javacasm
+
+### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
+
 # Utilizando scripts
 
 Los scripts son ficheros donde colocamos distintas órdenes que se irán realizando de forma consecutiva una tras otra
@@ -70,7 +81,7 @@ Entre estas opciones podemos encontrar **-tl** que nos va a permitir tomar una i
 
 	raspistill -o myimage_%d.jpg -tl 2000 -t 25000
 
-Una imagen cada 2 segundos durante 25 segundos Cada foto tendrá un número de secuencia 
+Una imagen cada 2 segundos durante 25 segundos Cada foto tendrá un número de secuencia
 
 	myimage_1.jpg
 	myimage_2.jpg
@@ -147,7 +158,7 @@ Podemos ver que se están realizando capturas de imágenes cada 10 segundos y co
 
 También podemos controlar cámaras profesionales que suelen admitir conexión USB (como por ejemplo una Canon Rebel T4i / 650D)
 
-Utilizaremos el software gphoto2 que  instalaremos con 
+Utilizaremos el software gphoto2 que  instalaremos con
 
 	 sudo apt-get install gphoto2
 
@@ -179,7 +190,7 @@ segundos
 
 ## Convertir fotos a vídeo
 
-Una vez tengamos todas las imágenes podemos generar un vídeo con ellas. 
+Una vez tengamos todas las imágenes podemos generar un vídeo con ellas.
 
 Instalamos un software llamado mencoder que será el que genere el vídeo.
 

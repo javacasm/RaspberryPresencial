@@ -9,16 +9,10 @@
 
 ### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
 
-# Hardware
+# Encuesta inicial
 
-## versiones
+# 1. ¿Conocías Raspberry?
 
+# 2. ¿Tienes Raspberry?
 
-## Cámara
-
-## monitor
-
-## ¿Componentes clónicos?
-
-
-## Clones
+# 3. ¿Qué quieres hacer con Raspberry?

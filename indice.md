@@ -1,18 +1,13 @@
-# Curso presencial de Raspberry
+# Raspberry Pi: Introducción al uso y programación ([162319GE102](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=161807))
 
-José Antonio Vacas @javacasm
+## CEP de Linares-Andújar
 
-Organizado por Darwin Eventur
+11, 12 y 17 de Mayo de 2016
 
-19 y 20 de Noviembre de 2015
+![CC](./imagenes/Licencia_CC.png)
+## José Antonio Vacas  @javacasm
 
-![cc](./imagenes/Licencia\ CC.png)
-
-(Algunas imágenes gracias al Pr. Pedro García Fernandez)
-
-Disponible en [https://github.com/javacasm/RaspberryPresencial/](https://github.com/javacasm/RaspberryPresencial/)
-
-* * *
+### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
 
 1. Introducción
 	1. [Índice](./indice.md)
@@ -27,6 +22,7 @@ Disponible en [https://github.com/javacasm/RaspberryPresencial/](https://github.
 1. Usando nuestra Raspberry
 	1. [¿Qué necesitamos?](./equipo.md) [¿Dónde comprar?](./dondeyquecompar.md)
 	1. [Arquitectura](./estructura.md)
+	1. [Sistemas Operativos disponibles](./sos.md)
 	1. [Instalación](./instalacion.md)
 	1. [Problemas](./problemas.md)
 	1. [Mantenimiento](./mantenimiento.md)

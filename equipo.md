@@ -1,10 +1,21 @@
+# Raspberry Pi: Introducción al uso y programación ([162319GE102](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=161807))
+
+## CEP de Linares-Andújar
+
+11, 12 y 17 de Mayo de 2016
+
+![CC](./imagenes/Licencia_CC.png)
+## José Antonio Vacas  @javacasm
+
+### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
+
 # Equipo
 
 ![montajeCompleto](./imagenes/MontajeCompleto.png)
 
 ## Obligatorios
 
-* Fuente de alimentación con conector micro-USB con al menos 1 
+* Fuente de alimentación con conector micro-USB con al menos 1
 * Tarjeta SD de 2 GB  o mejor de 4Gb. Se recomienda de clase 10 por su velocidad
 * Cable de red ethernet
 

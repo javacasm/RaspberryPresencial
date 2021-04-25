@@ -1,6 +1,15 @@
+# Raspberry Pi: Introducción al uso y programación ([162319GE102](https://www.juntadeandalucia.es/educacion/seneca/seneca/jsp/gestionactividades/DetActForPub.jsp?X_EDIACTFOR=161807))
+
+## CEP de Linares-Andújar
+
+11, 12 y 17 de Mayo de 2016
+
+![CC](./imagenes/Licencia_CC.png)
+## José Antonio Vacas  @javacasm
+
+### [https://github.com/javacasm/RaspberryLinares](https://github.com/javacasm/RaspberryLinares)
+
 # Proyectos
-
-
 
 ## [Aulas informatica](https://www.raspberrypi.org/blog/bringing-computing-to-rural-cameroon/)
 
@@ -47,3 +56,7 @@
 ## [Iluminación](https://learn.adafruit.com/neopixels-on-raspberry-pi)
 
 ![ilumnicación](https://learn.adafruit.com/system/guides/images/000/000/730/medium310/DSC00518_scaled.jpg?1410477592)
+
+## [Kano: portátil  basado en raspberrypi](http://www.raspberrypi-spy.co.uk/2016/04/kano-computer-kit-first-impressions/)
+
+![kano](./imagenes/kano_kit_02-1024x683.jpg)
